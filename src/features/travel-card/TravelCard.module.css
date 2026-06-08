@@ -1,0 +1,332 @@
+/* src/features/travel-card/TravelCard.module.css */
+
+/* ———— Blob morphing keyframes ———— */
+@keyframes blobMorph1 {
+  0%, 100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+  25% { border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%; }
+  50% { border-radius: 40% 60% 30% 70% / 40% 70% 50% 30%; }
+  75% { border-radius: 70% 30% 50% 50% / 30% 40% 60% 70%; }
+}
+
+@keyframes blobMorph2 {
+  0%, 100% { border-radius: 40% 60% 60% 40% / 50% 40% 60% 50%; }
+  25% { border-radius: 70% 30% 50% 50% / 40% 60% 40% 60%; }
+  50% { border-radius: 50% 50% 30% 70% / 60% 30% 70% 40%; }
+  75% { border-radius: 30% 70% 40% 60% / 70% 40% 30% 60%; }
+}
+
+@keyframes blobMorph3 {
+  0%, 100% { border-radius: 50% 50% 40% 60% / 40% 60% 50% 50%; }
+  33% { border-radius: 60% 40% 70% 30% / 30% 70% 40% 60%; }
+  66% { border-radius: 40% 70% 30% 60% / 60% 30% 70% 40%; }
+}
+
+/* ———— Drift path animations (full-screen flow) ———— */
+@keyframes driftWave1 {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  25%  { transform: translate(12px, -18px) rotate(0.5deg); }
+  50%  { transform: translate(-8px, -6px) rotate(-0.3deg); }
+  75%  { transform: translate(-14px, 14px) rotate(0.4deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+@keyframes driftWave2 {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  25%  { transform: translate(-16px, 10px) rotate(-0.6deg); }
+  50%  { transform: translate(6px, 20px) rotate(0.2deg); }
+  75%  { transform: translate(18px, -4px) rotate(0.5deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+@keyframes driftWave3 {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  33%  { transform: translate(-10px, -14px) rotate(0.3deg); }
+  66%  { transform: translate(20px, 8px) rotate(-0.4deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+@keyframes driftWave4 {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  20%  { transform: translate(8px, 16px) rotate(-0.5deg); }
+  50%  { transform: translate(-20px, -10px) rotate(0.7deg); }
+  80%  { transform: translate(4px, -20px) rotate(-0.2deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+@keyframes float {
+  0%, 100% { margin-top: 0; }
+  50% { margin-top: -10px; }
+}
+
+@keyframes shimmer {
+  0%, 100% { opacity: 0.25; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes cardEnter {
+  from {
+    opacity: 0;
+    transform: scale(0.7) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes cardExit {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: scale(0.7) translateY(-20px);
+  }
+}
+
+@keyframes clickPulse {
+  0% { transform: scale(1); }
+  40% { transform: scale(0.92); }
+  100% { transform: scale(1); }
+}
+
+/* ———— Card ———— */
+.card {
+  --hex-size: 220px;
+  width: var(--hex-size);
+  height: calc(var(--hex-size) * 1.15);
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+  animation: cardEnter 500ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Stagger enter */
+.card:nth-child(1) { animation-delay: 0ms; }
+.card:nth-child(2) { animation-delay: 50ms; }
+.card:nth-child(3) { animation-delay: 100ms; }
+.card:nth-child(4) { animation-delay: 150ms; }
+.card:nth-child(5) { animation-delay: 200ms; }
+.card:nth-child(6) { animation-delay: 250ms; }
+.card:nth-child(7) { animation-delay: 300ms; }
+.card:nth-child(8) { animation-delay: 350ms; }
+.card:nth-child(n+9) { animation-delay: 400ms; }
+
+.card:active {
+  animation: cardEnter 500ms cubic-bezier(0.16, 1, 0.3, 1) both,
+             clickPulse 300ms var(--ease-out-expo);
+}
+
+/* ———— Inner wrapper for continuous animations ———— */
+.cardInner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: inherit;
+  overflow: hidden;
+  transition: border-color 400ms var(--ease-out-expo),
+              box-shadow 400ms var(--ease-out-quint);
+  will-change: border-radius, transform;
+}
+
+.card:nth-child(5n+1) .cardInner {
+  animation: blobMorph1 14s ease-in-out infinite,
+             driftWave1 22s ease-in-out infinite,
+             float 8s ease-in-out infinite;
+}
+
+.card:nth-child(5n+2) .cardInner {
+  animation: blobMorph2 16s ease-in-out infinite,
+             driftWave2 26s ease-in-out infinite 1.5s,
+             float 9s ease-in-out infinite 1s;
+}
+
+.card:nth-child(5n+3) .cardInner {
+  animation: blobMorph3 13s ease-in-out infinite,
+             driftWave3 20s ease-in-out infinite 0.8s,
+             float 7s ease-in-out infinite 0.3s;
+}
+
+.card:nth-child(5n+4) .cardInner {
+  animation: blobMorph1 15s ease-in-out infinite 2s,
+             driftWave4 24s ease-in-out infinite 0.5s,
+             float 10s ease-in-out infinite 2s;
+}
+
+.card:nth-child(5n+5) .cardInner {
+  animation: blobMorph2 12s ease-in-out infinite 1s,
+             driftWave1 28s ease-in-out infinite 3s,
+             float 6s ease-in-out infinite 0.7s;
+}
+
+.card:hover .cardInner {
+  border-color: rgba(255, 255, 255, 0.25);
+  box-shadow:
+    0 12px 48px rgba(0, 0, 0, 0.5),
+    0 0 80px rgba(140, 160, 220, 0.1),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+  animation-play-state: paused;
+}
+
+.card:focus-visible .cardInner {
+  outline: 2px solid rgba(255, 255, 255, 0.4);
+  outline-offset: 6px;
+}
+
+.card:hover .image {
+  transform: scale(1.12);
+  filter: brightness(1.12) saturate(1.2);
+}
+
+/* ———— Foam shimmer ———— */
+.card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at 35% 25%,
+    rgba(255, 255, 255, 0.08) 0%,
+    transparent 55%
+  );
+  z-index: 3;
+  pointer-events: none;
+  animation: shimmer 5s ease-in-out infinite;
+}
+
+.card:nth-child(2n)::after {
+  animation-delay: 2s;
+}
+.card:nth-child(3n)::after {
+  animation-delay: 3.5s;
+}
+
+/* ———— Image ———— */
+.imageWrapper {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  transition: transform 800ms var(--ease-out-expo),
+              filter 800ms var(--ease-out-expo);
+}
+
+.imageFallback {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  color: rgba(255, 255, 255, 0.1);
+}
+
+/* ———— Content overlay ———— */
+.cardBody {
+  position: absolute;
+  bottom: 18%;
+  left: 12%;
+  right: 12%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  z-index: 2;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.subtitle {
+  font-size: var(--text-xs);
+  color: rgba(255, 255, 255, 0.7);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: 0.65rem;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: var(--font-display);
+}
+
+.moodRow {
+  display: flex;
+  gap: var(--space-1);
+  flex-wrap: wrap;
+}
+
+@media (max-width: 480px) {
+  .card {
+    --hex-size: 180px;
+  }
+  .title {
+    font-size: 0.7rem;
+  }
+  .subtitle {
+    font-size: 0.6rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .card {
+    --hex-size: 270px;
+  }
+  .title {
+    font-size: var(--text-base);
+  }
+  .subtitle {
+    font-size: var(--text-sm);
+  }
+}
+
+@media (min-width: 1200px) {
+  .card {
+    --hex-size: 300px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .card {
+    --hex-size: 330px;
+  }
+}
+
+/* ———— Reduced motion ———— */
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .card:nth-child(5n+1),
+  .card:nth-child(5n+2),
+  .card:nth-child(5n+3),
+  .card:nth-child(5n+4),
+  .card:nth-child(5n+5) {
+    animation: none;
+  }
+  .card::after {
+    animation: none;
+  }
+}
