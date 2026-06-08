@@ -1,0 +1,46 @@
+/* src/shared/components/LikeButton.module.css */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: var(--text-tertiary);
+  font-family: var(--font-display);
+  cursor: pointer;
+  transition: all 200ms var(--ease-out-expo);
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+}
+
+.liked {
+  color: #ff4d6a;
+  background: rgba(255, 77, 106, 0.12);
+  border-color: rgba(255, 77, 106, 0.2);
+}
+
+.liked:hover {
+  color: #ff6b82;
+  background: rgba(255, 77, 106, 0.2);
+}
+
+.sm {
+  padding: 3px 8px;
+  font-size: 0.65rem;
+}
+
+.md {
+  padding: 6px 14px;
+  font-size: var(--text-sm);
+}
+
+.count {
+  font-size: 0.7rem;
+  font-variant-numeric: tabular-nums;
+}
