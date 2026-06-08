@@ -1,0 +1,295 @@
+/* src/features/travel-detail/TravelDetail.module.css */
+
+/* ———— Page ———— */
+.page {
+  position: relative;
+  min-height: 100vh;
+  background: var(--bg-deep);
+}
+
+.article {
+  position: relative;
+  z-index: 1;
+}
+
+/* ———— Atmosphere ———— */
+.atmosphere {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  transition: background 200ms ease-out;
+}
+
+/* ———— Back Button ———— */
+.backButton {
+  position: fixed;
+  top: var(--space-4);
+  left: var(--space-4);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: 8px 16px;
+  border-radius: 100px;
+  background: rgba(18, 18, 26, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  font-size: var(--text-sm);
+  transition: background var(--duration-fast), border-color var(--duration-fast);
+}
+
+.backButton:hover {
+  background: rgba(18, 18, 26, 0.85);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+/* ———— Hero ———— */
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 500px;
+  overflow: hidden;
+}
+
+.heroImage {
+  position: absolute;
+  inset: -20px;
+  will-change: transform;
+}
+
+.heroImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 40%,
+    var(--bg-deep) 100%
+  );
+}
+
+.heroContent {
+  position: absolute;
+  bottom: var(--space-12);
+  left: var(--space-6);
+  right: var(--space-6);
+  max-width: 720px;
+}
+
+.heroTitle {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: var(--space-3);
+  line-height: 1.2;
+}
+
+.heroSubtitle {
+  font-size: var(--text-base);
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  .heroContent {
+    left: var(--space-12);
+    right: var(--space-12);
+    bottom: var(--space-16);
+  }
+  .heroTitle {
+    font-size: var(--text-3xl);
+  }
+}
+
+/* ———— Meta ———— */
+.meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-6);
+  font-family: var(--font-display);
+  font-size: var(--text-sm);
+  color: var(--text-tertiary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+@media (min-width: 768px) {
+  .meta {
+    padding: var(--space-4) var(--space-12);
+  }
+}
+
+/* ———— Narrative ———— */
+.narrative {
+  padding: var(--space-8) var(--space-6);
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.narrativeInner {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.paragraph {
+  font-size: var(--text-base);
+  line-height: 2;
+  color: var(--text-secondary);
+  text-align: justify;
+}
+
+.quote {
+  margin: var(--space-4) 0;
+  padding: var(--space-6);
+  border-left: 2px solid rgba(255, 255, 255, 0.1);
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-style: normal;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.tip {
+  margin-top: var(--space-6);
+  padding: var(--space-6);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.tipLabel {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: var(--space-2);
+}
+
+.tip p {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+@media (min-width: 768px) {
+  .narrative {
+    padding: var(--space-12) var(--space-12);
+  }
+  .paragraph {
+    font-size: var(--text-lg);
+  }
+}
+
+/* ———— Nav Arrows ———— */
+.navArrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: 12px 16px;
+  border-radius: 100px;
+  background: rgba(18, 18, 26, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 300ms ease, background 200ms ease;
+  max-width: 280px;
+}
+
+.page:hover .navArrow {
+  opacity: 1;
+}
+
+.navArrow:hover {
+  background: rgba(18, 18, 26, 0.9);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.navArrowLeft {
+  left: var(--space-4);
+}
+
+.navArrowRight {
+  right: var(--space-4);
+}
+
+.navLabel {
+  font-size: var(--text-xs);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .navLabel {
+    display: inline;
+  }
+}
+
+/* ———— Progress dots ———— */
+.dots {
+  position: fixed;
+  bottom: var(--space-6);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 200;
+  background: rgba(18, 18, 26, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 100px;
+  padding: 4px 16px;
+}
+
+.dotsText {
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ———— Not Found ———— */
+.notFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  gap: var(--space-6);
+  color: var(--text-secondary);
+  font-family: var(--font-display);
+}
+
+.notFoundIcon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,255,255,0.08), transparent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
