@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "cultural-1",
+    "title": "在摩洛哥菲斯古城跟老匠人学一天皮革染制",
+    "subtitle": "在摩洛哥，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 77,
+    "indexBreakdown": {
+      "uniqueness": 30,
+      "depth": 24,
+      "visualImpact": 23
+    },
+    "primaryMood": "诗意",
+    "secondaryMood": "静谧",
+    "heroImage": "https://picsum.photos/seed/flypig1h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig1c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "摩洛哥·菲斯 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "摩洛哥·菲斯",
+    "duration": "5天4晚",
+    "bestSeason": "3-5月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-2",
+    "title": "在缅甸蒲甘的千塔之间坐一次热气球",
+    "subtitle": "在缅甸，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 73,
+    "indexBreakdown": {
+      "uniqueness": 32,
+      "depth": 26,
+      "visualImpact": 15
+    },
+    "primaryMood": "诗意",
+    "secondaryMood": "静谧",
+    "heroImage": "https://picsum.photos/seed/flypig2h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig2c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "缅甸·蒲甘 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "缅甸·蒲甘",
+    "duration": "10天9晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-3",
+    "title": "在秘鲁马丘比丘等一场云开雾散的日出",
+    "subtitle": "在秘鲁，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 87,
+    "indexBreakdown": {
+      "uniqueness": 38,
+      "depth": 25,
+      "visualImpact": 24
+    },
+    "primaryMood": "震撼",
+    "secondaryMood": "热血",
+    "heroImage": "https://picsum.photos/seed/flypig3h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig3c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "秘鲁·库斯科 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "秘鲁·库斯科",
+    "duration": "3天2晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-4",
+    "title": "在土耳其卡帕多奇亚的洞穴里住一晚",
+    "subtitle": "在土耳其，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 90,
+    "indexBreakdown": {
+      "uniqueness": 39,
+      "depth": 34,
+      "visualImpact": 17
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "治愈",
+    "heroImage": "https://picsum.photos/seed/flypig4h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig4c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "土耳其·卡帕多奇亚 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "土耳其·卡帕多奇亚",
+    "duration": "14天13晚",
+    "bestSeason": "9-11月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-5",
+    "title": "在乌兹别克斯坦丝绸之路驿站听一段史诗",
+    "subtitle": "在乌兹别克斯坦，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 80,
+    "indexBreakdown": {
+      "uniqueness": 35,
+      "depth": 30,
+      "visualImpact": 15
+    },
+    "primaryMood": "孤独",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig5h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig5c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "乌兹别克斯坦·撒马尔罕 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "世界上最不可思议的事情，是你真的来了。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "乌兹别克斯坦·撒马尔罕",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-6",
+    "title": "在印度瓦拉纳西的恒河边等待日出",
+    "subtitle": "在印度，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 78,
+    "indexBreakdown": {
+      "uniqueness": 36,
+      "depth": 23,
+      "visualImpact": 19
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig6h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig6c/600/800",
+    "colorPalette": [
+      "#0a2a1a",
+      "#1a4a3a",
+      "#2a8a5a",
+      "#7ad8a0",
+      "#d0f8e0"
+    ],
+    "narrative": {
+      "intro": "印度·瓦拉纳西 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "印度·瓦拉纳西",
+    "duration": "5天4晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-7",
+    "title": "在墨西哥亡灵节上与逝者共舞",
+    "subtitle": "在墨西哥，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 76,
+    "indexBreakdown": {
+      "uniqueness": 25,
+      "depth": 31,
+      "visualImpact": 20
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig7h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig7c/600/800",
+    "colorPalette": [
+      "#1a0a2e",
+      "#2a1a5e",
+      "#6a3aae",
+      "#b07aee",
+      "#e0d0ff"
+    ],
+    "narrative": {
+      "intro": "墨西哥·瓦哈卡 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "墨西哥·瓦哈卡",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-8",
+    "title": "在埃塞俄比亚岩石教堂听一场千年弥撒",
+    "subtitle": "在埃塞俄比亚，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 88,
+    "indexBreakdown": {
+      "uniqueness": 35,
+      "depth": 34,
+      "visualImpact": 19
+    },
+    "primaryMood": "自由",
+    "secondaryMood": "未来感",
+    "heroImage": "https://picsum.photos/seed/flypig8h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig8c/600/800",
+    "colorPalette": [
+      "#0a1a1a",
+      "#1a3a3a",
+      "#2a7a7a",
+      "#5ababa",
+      "#d0f0f0"
+    ],
+    "narrative": {
+      "intro": "埃塞俄比亚·拉利贝拉 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "埃塞俄比亚·拉利贝拉",
+    "duration": "14天13晚",
+    "bestSeason": "9-11月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-9",
+    "title": "在吴哥窟的废墟中看一场史诗日出",
+    "subtitle": "在柬埔寨，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 78,
+    "indexBreakdown": {
+      "uniqueness": 32,
+      "depth": 31,
+      "visualImpact": 15
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "治愈",
+    "heroImage": "https://picsum.photos/seed/flypig9h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig9c/600/800",
+    "colorPalette": [
+      "#1a1a1a",
+      "#3a2828",
+      "#6a4040",
+      "#c08060",
+      "#f0c0a0"
+    ],
+    "narrative": {
+      "intro": "柬埔寨·暹粒 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "在所有地图之外，有另一种活法。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "柬埔寨·暹粒",
+    "duration": "5天4晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-10",
+    "title": "在京都的枯山水庭院里坐一下午",
+    "subtitle": "在日本，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 87,
+    "indexBreakdown": {
+      "uniqueness": 39,
+      "depth": 30,
+      "visualImpact": 18
+    },
+    "primaryMood": "诗意",
+    "secondaryMood": "未来感",
+    "heroImage": "https://picsum.photos/seed/flypig10h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig10c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "日本·京都 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "我们旅行，不是为了逃避生活，而是为了不让生活逃避我们。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "日本·京都",
+    "duration": "3天2晚",
+    "bestSeason": "6-8月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-11",
+    "title": "在伊朗伊斯法罕的清真寺穹顶下失语",
+    "subtitle": "在伊朗，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 72,
+    "indexBreakdown": {
+      "uniqueness": 29,
+      "depth": 20,
+      "visualImpact": 23
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig11h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig11c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "伊朗·伊斯法罕 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "伊朗·伊斯法罕",
+    "duration": "7天6晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-12",
+    "title": "在耶路撒冷老城里走一次苦路十四站",
+    "subtitle": "在以色列，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 70,
+    "indexBreakdown": {
+      "uniqueness": 33,
+      "depth": 21,
+      "visualImpact": 16
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "自由",
+    "heroImage": "https://picsum.photos/seed/flypig12h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig12c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "以色列·耶路撒冷 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "文明是一层一层叠起来的，你得亲自踩上去。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "以色列·耶路撒冷",
+    "duration": "10天9晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-13",
+    "title": "在敦煌莫高窟的壁画前与千年前对视",
+    "subtitle": "在中国，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 27,
+      "depth": 31,
+      "visualImpact": 23
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "热血",
+    "heroImage": "https://picsum.photos/seed/flypig13h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig13c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "中国·敦煌 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "中国·敦煌",
+    "duration": "14天13晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-14",
+    "title": "在意大利庞贝古城的街道上想象末日",
+    "subtitle": "在意大利，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 76,
+    "indexBreakdown": {
+      "uniqueness": 30,
+      "depth": 31,
+      "visualImpact": 15
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "未来感",
+    "heroImage": "https://picsum.photos/seed/flypig14h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig14c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "意大利·庞贝 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "意大利·庞贝",
+    "duration": "14天13晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-15",
+    "title": "在约旦佩特拉古城穿过一线天的蛇道",
+    "subtitle": "在约旦，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 70,
+    "indexBreakdown": {
+      "uniqueness": 27,
+      "depth": 27,
+      "visualImpact": 16
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig15h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig15c/600/800",
+    "colorPalette": [
+      "#0a2a1a",
+      "#1a4a3a",
+      "#2a8a5a",
+      "#7ad8a0",
+      "#d0f8e0"
+    ],
+    "narrative": {
+      "intro": "约旦·佩特拉 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "约旦·佩特拉",
+    "duration": "10天9晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-16",
+    "title": "在希腊雅典卫城触摸帕特农神庙的石柱",
+    "subtitle": "在希腊，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 73,
+    "indexBreakdown": {
+      "uniqueness": 36,
+      "depth": 22,
+      "visualImpact": 15
+    },
+    "primaryMood": "孤独",
+    "secondaryMood": "自由",
+    "heroImage": "https://picsum.photos/seed/flypig16h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig16c/600/800",
+    "colorPalette": [
+      "#1a0a2e",
+      "#2a1a5e",
+      "#6a3aae",
+      "#b07aee",
+      "#e0d0ff"
+    ],
+    "narrative": {
+      "intro": "希腊·雅典 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "希腊·雅典",
+    "duration": "3天2晚",
+    "bestSeason": "3-5月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-17",
+    "title": "在山西应县木塔下仰望千年榫卯",
+    "subtitle": "在中国，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 31,
+      "depth": 33,
+      "visualImpact": 17
+    },
+    "primaryMood": "未来感",
+    "secondaryMood": "治愈",
+    "heroImage": "https://picsum.photos/seed/flypig17h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig17c/600/800",
+    "colorPalette": [
+      "#0a1a1a",
+      "#1a3a3a",
+      "#2a7a7a",
+      "#5ababa",
+      "#d0f0f0"
+    ],
+    "narrative": {
+      "intro": "中国·山西 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "中国·山西",
+    "duration": "5天4晚",
+    "bestSeason": "9-11月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-18",
+    "title": "在伊斯坦布尔穿越亚欧大陆的渡轮上喝红茶",
+    "subtitle": "在土耳其，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 83,
+    "indexBreakdown": {
+      "uniqueness": 36,
+      "depth": 27,
+      "visualImpact": 20
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "诗意",
+    "heroImage": "https://picsum.photos/seed/flypig18h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig18c/600/800",
+    "colorPalette": [
+      "#1a1a1a",
+      "#3a2828",
+      "#6a4040",
+      "#c08060",
+      "#f0c0a0"
+    ],
+    "narrative": {
+      "intro": "土耳其·伊斯坦布尔 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "土耳其·伊斯坦布尔",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-19",
+    "title": "在埃及卢克索神庙的巨像脚下听风声",
+    "subtitle": "在埃及，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 88,
+    "indexBreakdown": {
+      "uniqueness": 35,
+      "depth": 31,
+      "visualImpact": 22
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "诗意",
+    "heroImage": "https://picsum.photos/seed/flypig19h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig19c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "埃及·卢克索 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "埃及·卢克索",
+    "duration": "3天2晚",
+    "bestSeason": "3-5月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-20",
+    "title": "在泉州开元寺的菩提树下看一场南音",
+    "subtitle": "在中国，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 75,
+    "indexBreakdown": {
+      "uniqueness": 36,
+      "depth": 21,
+      "visualImpact": 18
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig20h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig20c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "中国·泉州 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "中国·泉州",
+    "duration": "7天6晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-21",
+    "title": "在印度斋浦尔粉红之城里迷路一整天",
+    "subtitle": "在印度，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 84,
+    "indexBreakdown": {
+      "uniqueness": 37,
+      "depth": 32,
+      "visualImpact": 15
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig21h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig21c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "印度·斋浦尔 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "印度·斋浦尔",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-22",
+    "title": "在西班牙格拉纳达的阿尔罕布拉宫里冥想",
+    "subtitle": "在西班牙，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 79,
+    "indexBreakdown": {
+      "uniqueness": 28,
+      "depth": 31,
+      "visualImpact": 20
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "诗意",
+    "heroImage": "https://picsum.photos/seed/flypig22h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig22c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "西班牙·格拉纳达 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "西班牙·格拉纳达",
+    "duration": "3天2晚",
+    "bestSeason": "9-11月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-23",
+    "title": "在不丹虎穴寺悬在悬崖边听诵经",
+    "subtitle": "在不丹，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 83,
+    "indexBreakdown": {
+      "uniqueness": 31,
+      "depth": 34,
+      "visualImpact": 18
+    },
+    "primaryMood": "诗意",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig23h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig23c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "不丹·帕罗 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "不丹·帕罗",
+    "duration": "7天6晚",
+    "bestSeason": "3-5月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-24",
+    "title": "在琅勃拉邦清晨布施的橘色队伍里寻找平静",
+    "subtitle": "在老挝，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 70,
+    "indexBreakdown": {
+      "uniqueness": 34,
+      "depth": 21,
+      "visualImpact": 15
+    },
+    "primaryMood": "热血",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig24h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig24c/600/800",
+    "colorPalette": [
+      "#0a2a1a",
+      "#1a4a3a",
+      "#2a8a5a",
+      "#7ad8a0",
+      "#d0f8e0"
+    ],
+    "narrative": {
+      "intro": "老挝·琅勃拉邦 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "老挝·琅勃拉邦",
+    "duration": "3天2晚",
+    "bestSeason": "9-11月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-25",
+    "title": "在景德镇的窑火边亲手拉一个陶胚",
+    "subtitle": "在中国，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 82,
+    "indexBreakdown": {
+      "uniqueness": 34,
+      "depth": 26,
+      "visualImpact": 22
+    },
+    "primaryMood": "自由",
+    "secondaryMood": "复古",
+    "heroImage": "https://picsum.photos/seed/flypig25h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig25c/600/800",
+    "colorPalette": [
+      "#1a0a2e",
+      "#2a1a5e",
+      "#6a3aae",
+      "#b07aee",
+      "#e0d0ff"
+    ],
+    "narrative": {
+      "intro": "中国·景德镇 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "中国·景德镇",
+    "duration": "3天2晚",
+    "bestSeason": "6-8月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-26",
+    "title": "在里斯本的法朵酒馆里听一场命运之歌",
+    "subtitle": "在葡萄牙，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 68,
+    "indexBreakdown": {
+      "uniqueness": 25,
+      "depth": 28,
+      "visualImpact": 15
+    },
+    "primaryMood": "孤独",
+    "secondaryMood": "自由",
+    "heroImage": "https://picsum.photos/seed/flypig26h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig26c/600/800",
+    "colorPalette": [
+      "#0a1a1a",
+      "#1a3a3a",
+      "#2a7a7a",
+      "#5ababa",
+      "#d0f0f0"
+    ],
+    "narrative": {
+      "intro": "葡萄牙·里斯本 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "我们旅行，不是为了逃避生活，而是为了不让生活逃避我们。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "葡萄牙·里斯本",
+    "duration": "5天4晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-27",
+    "title": "在喀什老城的巷子里跟维吾尔匠人学打铜",
+    "subtitle": "在中国，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 78,
+    "indexBreakdown": {
+      "uniqueness": 32,
+      "depth": 29,
+      "visualImpact": 17
+    },
+    "primaryMood": "未来感",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig27h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig27c/600/800",
+    "colorPalette": [
+      "#1a1a1a",
+      "#3a2828",
+      "#6a4040",
+      "#c08060",
+      "#f0c0a0"
+    ],
+    "narrative": {
+      "intro": "中国·喀什 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "中国·喀什",
+    "duration": "10天9晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "cultural-28",
+    "title": "在布拉格查理大桥上等晨雾散去",
+    "subtitle": "在捷克，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 76,
+    "indexBreakdown": {
+      "uniqueness": 29,
+      "depth": 30,
+      "visualImpact": 17
+    },
+    "primaryMood": "震撼",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig28h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig28c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "捷克·布拉格 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "捷克·布拉格",
+    "duration": "10天9晚",
+    "bestSeason": "9-11月",
+    "budget": "¥"
+  },
+  {
+    "id": "cultural-29",
+    "title": "在圣彼得堡冬宫的长廊里独自漫步",
+    "subtitle": "在俄罗斯，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 74,
+    "indexBreakdown": {
+      "uniqueness": 32,
+      "depth": 20,
+      "visualImpact": 22
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "热血",
+    "heroImage": "https://picsum.photos/seed/flypig29h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig29c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "俄罗斯·圣彼得堡 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "俄罗斯·圣彼得堡",
+    "duration": "5天4晚",
+    "bestSeason": "9-11月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "cultural-30",
+    "title": "在加德满都的杜巴广场看活女神从窗前经过",
+    "subtitle": "在尼泊尔，重新认识人类文明",
+    "category": "cultural",
+    "unbelievableIndex": 74,
+    "indexBreakdown": {
+      "uniqueness": 29,
+      "depth": 27,
+      "visualImpact": 18
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "热血",
+    "heroImage": "https://picsum.photos/seed/flypig30h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig30c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "尼泊尔·加德满都 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "世界上最不可思议的事情，是你真的来了。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "尼泊尔·加德满都",
+    "duration": "10天9晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "adventure-31",
+    "title": "在撒哈拉的星空下听一场沙漠交响",
+    "subtitle": "在摩洛哥，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 29,
+      "depth": 31,
+      "visualImpact": 21
+    },
+    "primaryMood": "自由",
+    "secondaryMood": "治愈",
+    "heroImage": "https://picsum.photos/seed/flypig31h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig31c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "摩洛哥·撒哈拉 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "摩洛哥·撒哈拉",
+    "duration": "14天13晚",
+    "bestSeason": "12-2月",
+    "budget": "¥"
+  },
+  {
+    "id": "adventure-32",
+    "title": "徒步穿越冰岛火山熔岩隧道",
+    "subtitle": "在冰岛，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 33,
+      "depth": 27,
+      "visualImpact": 21
+    },
+    "primaryMood": "震撼",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig32h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig32c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "冰岛·雷克雅未克 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "冰岛·雷克雅未克",
+    "duration": "7天6晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "adventure-33",
+    "title": "划独木舟穿越越南下龙湾的迷雾",
+    "subtitle": "在越南，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 25,
+      "depth": 32,
+      "visualImpact": 24
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig33h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig33c/600/800",
+    "colorPalette": [
+      "#0a2a1a",
+      "#1a4a3a",
+      "#2a8a5a",
+      "#7ad8a0",
+      "#d0f8e0"
+    ],
+    "narrative": {
+      "intro": "越南·下龙湾 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "越南·下龙湾",
+    "duration": "10天9晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "adventure-34",
+    "title": "在纳米比亚沙漠追逐濒危黑犀牛",
+    "subtitle": "在纳米比亚，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 83,
+    "indexBreakdown": {
+      "uniqueness": 31,
+      "depth": 30,
+      "visualImpact": 22
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "诗意",
+    "heroImage": "https://picsum.photos/seed/flypig34h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig34c/600/800",
+    "colorPalette": [
+      "#1a0a2e",
+      "#2a1a5e",
+      "#6a3aae",
+      "#b07aee",
+      "#e0d0ff"
+    ],
+    "narrative": {
+      "intro": "纳米比亚·埃托沙 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "在所有地图之外，有另一种活法。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "纳米比亚·埃托沙",
+    "duration": "14天13晚",
+    "bestSeason": "9-11月",
+    "budget": "¥"
+  },
+  {
+    "id": "adventure-35",
+    "title": "在智利百内国家公园走完W线",
+    "subtitle": "在智利，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 75,
+    "indexBreakdown": {
+      "uniqueness": 27,
+      "depth": 26,
+      "visualImpact": 22
+    },
+    "primaryMood": "未来感",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig35h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig35c/600/800",
+    "colorPalette": [
+      "#0a1a1a",
+      "#1a3a3a",
+      "#2a7a7a",
+      "#5ababa",
+      "#d0f0f0"
+    ],
+    "narrative": {
+      "intro": "智利·百内 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "文明是一层一层叠起来的，你得亲自踩上去。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "智利·百内",
+    "duration": "7天6晚",
+    "bestSeason": "3-5月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "adventure-36",
+    "title": "潜入马来西亚诗巴丹的深海悬崖",
+    "subtitle": "在马来西亚，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 74,
+    "indexBreakdown": {
+      "uniqueness": 25,
+      "depth": 31,
+      "visualImpact": 18
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig36h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig36c/600/800",
+    "colorPalette": [
+      "#1a1a1a",
+      "#3a2828",
+      "#6a4040",
+      "#c08060",
+      "#f0c0a0"
+    ],
+    "narrative": {
+      "intro": "马来西亚·诗巴丹 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "马来西亚·诗巴丹",
+    "duration": "3天2晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "adventure-37",
+    "title": "在格陵兰岛划皮划艇穿越冰山",
+    "subtitle": "在格陵兰，重新认识自己的勇气",
+    "category": "adventure",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 31,
+      "depth": 27,
+      "visualImpact": 23
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "自由",
+    "heroImage": "https://picsum.photos/seed/flypig37h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig37c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "格陵兰·伊卢利萨特 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "全年皆宜，但避开当地节假日"
+    },
+    "destination": "格陵兰·伊卢利萨特",
+    "duration": "7天6晚",
+    "bestSeason": "12-2月",
+    "budget": "¥"
+  },
+  {
+    "id": "healing-38",
+    "title": "在北极圈玻璃屋里等一场极光",
+    "subtitle": "在挪威，重新认识内心的宁静",
+    "category": "healing",
+    "unbelievableIndex": 91,
+    "indexBreakdown": {
+      "uniqueness": 38,
+      "depth": 32,
+      "visualImpact": 21
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "未来感",
+    "heroImage": "https://picsum.photos/seed/flypig38h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig38c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "挪威·特罗姆瑟 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "挪威·特罗姆瑟",
+    "duration": "10天9晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "healing-39",
+    "title": "在日本白川乡合掌造醒来听雪落的声音",
+    "subtitle": "在日本，重新认识内心的宁静",
+    "category": "healing",
+    "unbelievableIndex": 72,
+    "indexBreakdown": {
+      "uniqueness": 26,
+      "depth": 22,
+      "visualImpact": 24
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "热血",
+    "heroImage": "https://picsum.photos/seed/flypig39h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig39c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "日本·白川乡 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "有些风景，必须亲自去看。",
+      "tip": "最佳季节：6-8月，建议提前3个月预订"
+    },
+    "destination": "日本·白川乡",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "healing-40",
+    "title": "在巴厘岛丛林深处的竹屋里练习冥想",
+    "subtitle": "在印尼，重新认识内心的宁静",
+    "category": "healing",
+    "unbelievableIndex": 76,
+    "indexBreakdown": {
+      "uniqueness": 32,
+      "depth": 20,
+      "visualImpact": 24
+    },
+    "primaryMood": "未来感",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig40h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig40c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "印尼·巴厘岛 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "旅行的意义不在于抵达，而在于出发。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "印尼·巴厘岛",
+    "duration": "3天2晚",
+    "bestSeason": "12-2月",
+    "budget": "¥"
+  },
+  {
+    "id": "healing-41",
+    "title": "在芬兰极夜中体验一次桑拿跳冰湖",
+    "subtitle": "在芬兰，重新认识内心的宁静",
+    "category": "healing",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 38,
+      "depth": 24,
+      "visualImpact": 19
+    },
+    "primaryMood": "复古",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig41h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig41c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "芬兰·拉普兰 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "我们旅行，不是为了逃避生活，而是为了不让生活逃避我们。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "芬兰·拉普兰",
+    "duration": "5天4晚",
+    "bestSeason": "3-5月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "healing-42",
+    "title": "在云南沙溪古镇跟着马帮走茶马古道",
+    "subtitle": "在中国，重新认识内心的宁静",
+    "category": "healing",
+    "unbelievableIndex": 78,
+    "indexBreakdown": {
+      "uniqueness": 30,
+      "depth": 30,
+      "visualImpact": 18
+    },
+    "primaryMood": "震撼",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig42h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig42c/600/800",
+    "colorPalette": [
+      "#0a2a1a",
+      "#1a4a3a",
+      "#2a8a5a",
+      "#7ad8a0",
+      "#d0f8e0"
+    ],
+    "narrative": {
+      "intro": "中国·云南 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "在所有地图之外，有另一种活法。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "中国·云南",
+    "duration": "14天13晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "extreme-43",
+    "title": "在南极冰盖上露营听冰川崩裂",
+    "subtitle": "在南极半岛，重新认识生命的极限",
+    "category": "extreme",
+    "unbelievableIndex": 78,
+    "indexBreakdown": {
+      "uniqueness": 28,
+      "depth": 32,
+      "visualImpact": 18
+    },
+    "primaryMood": "治愈",
+    "secondaryMood": "未来感",
+    "heroImage": "https://picsum.photos/seed/flypig43h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig43c/600/800",
+    "colorPalette": [
+      "#1a0a2e",
+      "#2a1a5e",
+      "#6a3aae",
+      "#b07aee",
+      "#e0d0ff"
+    ],
+    "narrative": {
+      "intro": "南极半岛 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "世界上最不可思议的事情，是你真的来了。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "南极半岛",
+    "duration": "10天9晚",
+    "bestSeason": "6-8月",
+    "budget": "¥"
+  },
+  {
+    "id": "extreme-44",
+    "title": "在挪威峡湾悬崖上搭帐篷过夜",
+    "subtitle": "在挪威，重新认识生命的极限",
+    "category": "extreme",
+    "unbelievableIndex": 77,
+    "indexBreakdown": {
+      "uniqueness": 33,
+      "depth": 22,
+      "visualImpact": 22
+    },
+    "primaryMood": "未来感",
+    "secondaryMood": "震撼",
+    "heroImage": "https://picsum.photos/seed/flypig44h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig44c/600/800",
+    "colorPalette": [
+      "#0a1a1a",
+      "#1a3a3a",
+      "#2a7a7a",
+      "#5ababa",
+      "#d0f0f0"
+    ],
+    "narrative": {
+      "intro": "挪威·吕瑟峡湾 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "古迹不说话，但它们记住了所有路过的人。",
+      "tip": "最佳季节：9-11月，建议提前半年预订"
+    },
+    "destination": "挪威·吕瑟峡湾",
+    "duration": "7天6晚",
+    "bestSeason": "3-5月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "extreme-45",
+    "title": "在尼泊尔安娜普尔纳挑战5400米垭口",
+    "subtitle": "在尼泊尔，重新认识生命的极限",
+    "category": "extreme",
+    "unbelievableIndex": 85,
+    "indexBreakdown": {
+      "uniqueness": 38,
+      "depth": 25,
+      "visualImpact": 22
+    },
+    "primaryMood": "震撼",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig45h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig45c/600/800",
+    "colorPalette": [
+      "#1a1a1a",
+      "#3a2828",
+      "#6a4040",
+      "#c08060",
+      "#f0c0a0"
+    ],
+    "narrative": {
+      "intro": "尼泊尔·博卡拉 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "走的路越多，越觉得世界值得认真对待。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "尼泊尔·博卡拉",
+    "duration": "5天4晚",
+    "bestSeason": "6-8月",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "extreme-46",
+    "title": "在瓦努阿图火山口边缘看岩浆喷涌",
+    "subtitle": "在瓦努阿图，重新认识生命的极限",
+    "category": "extreme",
+    "unbelievableIndex": 74,
+    "indexBreakdown": {
+      "uniqueness": 33,
+      "depth": 24,
+      "visualImpact": 17
+    },
+    "primaryMood": "自由",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig46h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig46c/600/800",
+    "colorPalette": [
+      "#1a0a0a",
+      "#3d1a1a",
+      "#8b3a3a",
+      "#d4a06a",
+      "#f0d0a0"
+    ],
+    "narrative": {
+      "intro": "瓦努阿图·塔纳岛 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "文明是一层一层叠起来的，你得亲自踩上去。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "瓦努阿图·塔纳岛",
+    "duration": "5天4晚",
+    "bestSeason": "3-5月",
+    "budget": "¥"
+  },
+  {
+    "id": "mystery-47",
+    "title": "在格鲁吉亚梅斯蒂亚寻找失落塔楼",
+    "subtitle": "在格鲁吉亚，重新认识世界的未知",
+    "category": "mystery",
+    "unbelievableIndex": 80,
+    "indexBreakdown": {
+      "uniqueness": 25,
+      "depth": 34,
+      "visualImpact": 21
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "静谧",
+    "heroImage": "https://picsum.photos/seed/flypig47h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig47c/600/800",
+    "colorPalette": [
+      "#0a1a2e",
+      "#162a4e",
+      "#2a5a9e",
+      "#7ab8e0",
+      "#d0e8f8"
+    ],
+    "narrative": {
+      "intro": "格鲁吉亚·梅斯蒂亚 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "在所有地图之外，有另一种活法。",
+      "tip": "最佳季节：3-5月，建议提前1个月预订"
+    },
+    "destination": "格鲁吉亚·梅斯蒂亚",
+    "duration": "5天4晚",
+    "bestSeason": "3-5月",
+    "budget": "¥¥"
+  },
+  {
+    "id": "mystery-48",
+    "title": "在马达加斯加猴面包树大道漫步",
+    "subtitle": "在马达加斯加，重新认识世界的未知",
+    "category": "mystery",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 30,
+      "depth": 32,
+      "visualImpact": 19
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "诗意",
+    "heroImage": "https://picsum.photos/seed/flypig48h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig48c/600/800",
+    "colorPalette": [
+      "#1a1a0a",
+      "#3a3a1a",
+      "#7a7a2a",
+      "#baba5a",
+      "#f0f0d0"
+    ],
+    "narrative": {
+      "intro": "马达加斯加·穆龙达瓦 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "在所有地图之外，有另一种活法。",
+      "tip": "最佳季节：12-2月，建议提前2个月预订"
+    },
+    "destination": "马达加斯加·穆龙达瓦",
+    "duration": "7天6晚",
+    "bestSeason": "全年皆宜",
+    "budget": "¥¥¥"
+  },
+  {
+    "id": "mystery-49",
+    "title": "在也门索科特拉岛看龙血树的外星地貌",
+    "subtitle": "在也门，重新认识世界的未知",
+    "category": "mystery",
+    "unbelievableIndex": 77,
+    "indexBreakdown": {
+      "uniqueness": 29,
+      "depth": 29,
+      "visualImpact": 19
+    },
+    "primaryMood": "荒诞",
+    "secondaryMood": "孤独",
+    "heroImage": "https://picsum.photos/seed/flypig49h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig49c/600/800",
+    "colorPalette": [
+      "#0d1b2a",
+      "#1b2a3d",
+      "#3a5a7a",
+      "#7a9aba",
+      "#e0e8f0"
+    ],
+    "narrative": {
+      "intro": "也门·索科特拉岛 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "也门·索科特拉岛",
+    "duration": "3天2晚",
+    "bestSeason": "3-5月",
+    "budget": "¥"
+  },
+  {
+    "id": "mystery-50",
+    "title": "在吉尔吉斯斯坦雪山牧场做一周牧民",
+    "subtitle": "在吉尔吉斯斯坦，重新认识世界的未知",
+    "category": "mystery",
+    "unbelievableIndex": 81,
+    "indexBreakdown": {
+      "uniqueness": 35,
+      "depth": 31,
+      "visualImpact": 15
+    },
+    "primaryMood": "静谧",
+    "secondaryMood": "荒诞",
+    "heroImage": "https://picsum.photos/seed/flypig50h/1200/800",
+    "cardImage": "https://picsum.photos/seed/flypig50c/600/800",
+    "colorPalette": [
+      "#2d1b00",
+      "#5c3d1a",
+      "#b8860b",
+      "#f5d08c",
+      "#fff8e7"
+    ],
+    "narrative": {
+      "intro": "吉尔吉斯斯坦·松克尔湖 | 有些体验无法被算法推荐",
+      "story": [
+        "你来到这里，不是因为攻略上说\"必打卡\"。",
+        "你来，是因为听说这里有一种东西——在别处正在消失的东西。",
+        "也许是匠人的手温，也许是千百年前的石头上还留着凿痕。",
+        "你静下来，终于听见了——那些比文字更古老的叙述。",
+        "离开时你发现：你看世界的眼光，被一个地方轻轻地改变了。"
+      ],
+      "travelerQuote": "不走出去，以为眼前就是世界。",
+      "tip": "春秋两季最佳，提前2周预订即可"
+    },
+    "destination": "吉尔吉斯斯坦·松克尔湖",
+    "duration": "5天4晚",
+    "bestSeason": "12-2月",
+    "budget": "¥¥"
+  }
+]
