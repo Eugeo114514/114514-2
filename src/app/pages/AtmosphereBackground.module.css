@@ -1,0 +1,39 @@
+/* src/app/pages/AtmosphereBackground.module.css */
+
+.atmosphere {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(
+      ellipse 80% 60% at 50% 30%,
+      var(--atmo-2, #12121a) 0%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 60% 50% at 80% 70%,
+      var(--atmo-3, #1a1a26) 0%,
+      transparent 50%
+    ),
+    radial-gradient(
+      ellipse 50% 50% at 20% 40%,
+      var(--atmo-1, #0a0a0f) 0%,
+      transparent 70%
+    ),
+    var(--bg-deep, #0a0a0f);
+  transition: background 1200ms cubic-bezier(0.16, 1, 0.3, 1);
+  animation: breathe 20s ease-in-out infinite;
+}
+
+@keyframes breathe {
+  0%, 100% {
+    background-position: 50% 30%, 80% 70%, 20% 40%;
+  }
+  33% {
+    background-position: 60% 25%, 70% 75%, 30% 35%;
+  }
+  66% {
+    background-position: 40% 35%, 85% 65%, 15% 45%;
+  }
+}
