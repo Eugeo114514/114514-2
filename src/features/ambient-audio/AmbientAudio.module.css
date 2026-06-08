@@ -1,0 +1,40 @@
+/* src/features/ambient-audio/AmbientAudio.module.css */
+
+.toggle {
+  position: fixed;
+  bottom: var(--space-6);
+  right: var(--space-6);
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: 10px 18px;
+  border-radius: 100px;
+  background: rgba(18, 18, 26, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--text-tertiary);
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  cursor: pointer;
+  transition: all var(--duration-normal) var(--ease-out-expo);
+  opacity: 0.5;
+}
+
+.toggle:hover {
+  opacity: 1;
+  border-color: rgba(255, 255, 255, 0.15);
+  color: var(--text-secondary);
+}
+
+.on {
+  opacity: 0.85;
+  color: var(--text-primary);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 24px rgba(120, 120, 200, 0.15);
+}
+
+.label {
+  letter-spacing: 0.05em;
+}
