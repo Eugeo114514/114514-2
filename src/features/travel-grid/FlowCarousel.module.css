@@ -1,0 +1,141 @@
+/* src/features/travel-grid/FlowCarousel.module.css */
+
+.carousel {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Horizontal scroll track */
+.track {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  height: 100%;
+  padding: 0 calc(50vw - 140px);
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x proximity;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.track::-webkit-scrollbar {
+  display: none;
+}
+
+.track > * {
+  flex-shrink: 0;
+  scroll-snap-align: center;
+}
+
+/* Arrow buttons — embla style */
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 50;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(18, 18, 26, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 300ms var(--ease-out-expo),
+              background 200ms var(--ease-out-expo);
+}
+
+.carousel:hover .arrow {
+  opacity: 1;
+}
+
+.arrow:hover {
+  background: rgba(18, 18, 26, 0.9);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.arrowLeft {
+  left: var(--space-4);
+}
+
+.arrowRight {
+  right: var(--space-4);
+}
+
+/* Edge gradient fades */
+.fade {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 120px;
+  pointer-events: none;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 400ms var(--ease-out-expo);
+}
+
+.fadeVisible {
+  opacity: 1;
+}
+
+.fadeLeft {
+  left: 0;
+  background: linear-gradient(to right, var(--bg-deep) 0%, transparent 100%);
+}
+
+.fadeRight {
+  right: 0;
+  background: linear-gradient(to left, var(--bg-deep) 0%, transparent 100%);
+}
+
+/* Mobile: show more card, tighter padding */
+@media (max-width: 480px) {
+  .track {
+    padding: 0 var(--space-4);
+    gap: var(--space-3);
+    scroll-snap-type: x mandatory;
+  }
+  .track > * {
+    scroll-snap-align: center;
+  }
+  .fade {
+    width: 60px;
+  }
+  .arrow {
+    width: 36px;
+    height: 36px;
+  }
+  .arrowLeft { left: var(--space-2); }
+  .arrowRight { right: var(--space-2); }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .track {
+    padding: 0 calc(50vw - 120px);
+    gap: var(--space-4);
+  }
+}
+
+@media (min-width: 768px) {
+  .track {
+    padding: 0 calc(50vw - 160px);
+    gap: var(--space-6);
+  }
+}
+
+@media (min-width: 1200px) {
+  .track {
+    padding: 0 calc(50vw - 180px);
+    gap: var(--space-8);
+  }
+}
