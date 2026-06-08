@@ -1,0 +1,60 @@
+/* src/shared/styles/tokens.css */
+
+:root {
+  /* ———— 暗色基底 ———— */
+  --bg-deep: #0a0a0f;
+  --bg-surface: #12121a;
+  --bg-elevated: #1a1a26;
+
+  /* ———— 毛玻璃 ———— */
+  --glass-bg: rgba(18, 18, 26, 0.6);
+  --glass-bg-hover: rgba(18, 18, 26, 0.8);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --glass-border-hover: rgba(255, 255, 255, 0.12);
+  --glass-blur: 20px;
+
+  /* ———— 文字 ———— */
+  --text-primary: #f0ede8;
+  --text-secondary: rgba(240, 237, 232, 0.6);
+  --text-tertiary: rgba(240, 237, 232, 0.35);
+
+  /* ———— 排版 ———— */
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+  --font-body: 'Noto Serif SC', 'Source Han Serif SC', serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 3rem;
+
+  /* ———— 间距 ———— */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* ———— 圆角 ———— */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* ———— 动效 ———— */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 200ms;
+  --duration-normal: 400ms;
+  --duration-slow: 800ms;
+
+  /* ———— 动态颜色（由 JS 注入） ———— */
+  --color-1: #1a1a2e;
+  --color-2: #16213e;
+  --color-3: #0f3460;
+}
